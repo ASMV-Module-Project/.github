@@ -1,12 +1,10 @@
-1. # AMSV Module Project Target: 
+# AMSV Module Project Target: 
 ASMV Module Project supports robotics and drone innovation, building on key controllers SDK like Ardupilot, DJI, Parrot, and ROS. Its primary mission: to ensure unparalleled safety by adhering to localized standards and ensure a secure AI access. Beyond safety, ASMV Module Project is a nexus of connectivity and intelligence, acting as an IoT gateway with edge AI capabilities. Its deep integration with cloud-based AI platforms facilitates data flow to ERPs and regulatory bodies. With ASMV Module Project, drones and robots are not just operational tools but integrated, intelligent systems shaping the future of business and society. 
 
 
 
 
-1. # Introduction 
-
-
+# Introduction 
 In the rapidly evolving landscape of robotics and drone technology, primary controllers, hailing from renowned platforms like Ardupilot, DJI, Parrot, and ROS-based, form the heart of operations. However, as these controllers navigate the intricacies of real-world scenarios, there emerges a pressing need for an advanced companion system that not only bolsters safety but also enhances connectivity and intelligence for drones and robots' fleet management and provide easy access to its sources for R&D, University and Makers and tinkerers. Enter ASMV Module Project.  
 
 
