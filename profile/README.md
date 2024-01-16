@@ -20,7 +20,7 @@ Beyond its safety promise, ASMV Module Project acts as a robust IoT gateway, e
 
 
 
-1. # What Key Specifies ASMV Module Project will develop? 
+# What Key Specifies ASMV Module Project will develop? 
 
 
 - **Safety as a Core Principle**: ASMV Module Project will ensure drones and robots operate according to specific industrial, business, or civilian regulations. With over-the-air updates, ASMV Module Project can adapt safety behaviours and regulations based on localization, ensuring real-time compliance and adaptability. 
@@ -39,23 +39,23 @@ Beyond its safety promise, ASMV Module Project acts as a robust IoT gateway, e
 
 
 
-1. # Key features of ASMV Module Project: 
+# Key features of ASMV Module Project: 
 
-1. ## Pilot Web Support Interface: "Sideburns" - Streamlined Connectivity Without the Cables 
+## Pilot Web Support Interface: "Sideburns" - Streamlined Connectivity Without the Cables 
 - **Over-the-Air Log Management**: Enables automated downloads of logs, including tlogs, .Logs, .bin, and more, directly from Pixhawk—eliminating the need for physical cables. Additionally, it supports automated email dispatch of these logs for convenient access. 
 - **Time Management**: Facilitates automatic time-setting in scenarios where GPS connectivity is unavailable. Provide time logging and time-logging reporting 
 - **Mavlink Routing**: Empowers users to manage Mavlink routing over TCP/UDP through an intuitive web interface. 
 - **Versatile Connection Options**: Provides seamless connection capabilities to renowned platforms like MissionPlanner and QGC via TCP/UDP. 
 
 
-1. ## IoT Gateway & Security: Safeguarding Your Data Streams 
+## IoT Gateway & Security: Safeguarding Your Data Streams 
 - **Robust Connectivity**: The IoT gateway ensures unwavering connectivity to the drone and flight controller via WiFi, LTE/4G/5G, and also features a hotspot for local access. 
 - **Integration with Bourget.Cloud**: Enables a direct connection to the Bourget.Cloud network for holistic drone and payload management. To learn more about its capabilities, refer to the Bourget.Cloud project. 
 - **Uncompromised Security**: Prioritizes a Zero-Trust compliance model for connectivity, ensuring data security at every touchpoint. 
 - **Secure VPN**: Implements the Zero-Tier VPN consistently, ensuring no ports are exposed to the internet. 
 
 
-1. ## Data Provisioning & Quality: Ensuring Reliable and Actionable Insights 
+## Data Provisioning & Quality: Ensuring Reliable and Actionable Insights 
 - **Data Flow Prioritization**: Offers features to prioritize data provisioning, including data streams during flight and post-flight. 
 - **Advanced Data Trailing**: Utilizes cryptographic contracts and storage-os for ensuring data integrity and traceability. 
 - **Uncompromised Service Quality**: Guarantees Quality of Service (QoS) for vital access points. 
@@ -63,14 +63,14 @@ Beyond its safety promise, ASMV Module Project acts as a robust IoT gateway, e
 - **Streaming & Segregation**: Supports both low-res and high-res video streaming and ensures data segregation and prioritization , manage data for different on-board payloads. 
 
 
-1. ## Integration with AI Cloud, ERP & EAM: Bridging Operational Data with Business Systems 
+## Integration with AI Cloud, ERP & EAM: Bridging Operational Data with Business Systems 
 - **Node-Red Customization**: Offers Node-Red capabilities, allowing users to craft their own data flows. 
 - **Bourget.Cloud Integration**: Facilitates seamless connection to the Bourget.Cloud IoT platform. 
 - **Advanced Data Streaming**: Ready for data streaming with industry-standard platforms like MQTT & Kafka. 
 - **Plugin Access**: Provides development access for both Mavlink and ROS2 plugins. 
 
 
-1. ## AI Edge: EHS Module - Enhancing Safety with Advanced Recognition 
+## AI Edge: EHS Module - Enhancing Safety with Advanced Recognition 
 - **Sonar Management**:  
   - Manages sonar hardware and positioning. 
   - Adjustable Sonar Loops: Delivers multiple sonar adjustable loops for Mavlink & ROS2 topics. 
@@ -89,11 +89,11 @@ Beyond its safety promise, ASMV Module Project acts as a robust IoT gateway, e
 
 
 
-1. # Legal Data Trail and Cryptography 
+# Legal Data Trail and Cryptography 
 Legal compliance and transparency are paramount in the age of data. ASMV Module Project champions a robust legal data trail, underpinned by advanced cryptographic techniques. This ensures that all operational data, including safety behaviors and compliance checks, are securely logged, traceable, and immune to tampering. In a world where data integrity can make or break legal and insurance claims, ASMV Module Project stands as a bulwark against potential legal pitfalls, ensuring businesses operate with confidence. 
 
 
-1. # Edge AI and AI on the Cloud: The Future of Intelligent Processing 
+# Edge AI and AI on the Cloud: The Future of Intelligent Processing 
 The integration of AI in robotics and drones demands a sophisticated, dual approach: AI-on-the-Edge for real-time decisions and AI on the Cloud for deep analysis. 
 
 - **AI-on-the-Edge**: 
@@ -110,7 +110,7 @@ In essence, ASMV Module Project is charting a course towards a future where dr
 
 
 
-1. # Underlying OS Infrastructure: 
+# Underlying OS Infrastructure: 
 - **Open-Source and Adaptability**: Rooted in Raspbian with future integrations like EdgeX Foundry and/or BlueOS. 
 - Isaac OS is Open Source but may not work on other board than the ASMV module 
 - Isaac OS is based on Raspbian from version 0 to version 2 (2023). 
@@ -118,7 +118,7 @@ In essence, ASMV Module Project is charting a course towards a future where dr
 
 
 
-1. # Diverse Controller Connectivity:  
+# Diverse Controller Connectivity:  
 - Compatible and tested with Ardupilot & MAVLink controllers 
 - Roadmap to other controller implementation and tests will be :  
   - ROS2 SDK expected 2025 
@@ -129,7 +129,7 @@ In essence, ASMV Module Project is charting a course towards a future where dr
 
 
 
-1. # ERP & EAM Connectivity: Bridging the Gap Between Machines and Management Systems 
+# ERP & EAM Connectivity: Bridging the Gap Between Machines and Management Systems 
 In today's interconnected business ecosystem, drones and robots don't operate in isolation and they come as fleets. They are pivotal components of a broader operational matrix, where data-driven insights from these machines can significantly impact decision-making processes, resource allocation, and long-term planning. To ensure that these insights seamlessly integrate with core business systems, a robust connectivity framework is essential. 
 
 
@@ -162,7 +162,7 @@ Incorporating tools like Node-RED and MQTT, and ensuring compatibility with plat
 
 
 
-1. # Data Logging, Analysis, and Actionable Insights: Paving the Way for Advanced Robotics 
+# Data Logging, Analysis, and Actionable Insights: Paving the Way for Advanced Robotics 
 As drones and robots become increasingly integral to modern operations, understanding their functioning, performance, and environment is paramount. This understanding isn't just about immediate operations but extends to long-term improvements, safety, and integration into broader societal frameworks. 
 
 - **Comprehensive Data Capture**: ASMV Module Project ensures that every piece of data, from the most intricate internal logs of the robots and drones to the specific data from their payloads, is meticulously captured and backed-up on the Safety companion computer and transferred to IoT Platform. Every data point logged is accounted for and will be made available in the cloud. 
@@ -178,7 +178,7 @@ In essence, ASMV Module Project doesn't just enable drones and robots to opera
 
 
 
-1. # Over-the-Air Regulation and Behavior Updates 
+# Over-the-Air Regulation and Behavior Updates 
 In our globalized world, drones and robots often operate across different jurisdictions with varying safety standards. ASMV Module Project's over-the-air updates allow these machines to adapt their safety behaviors and comply with local regulations in real-time. This ensures that they are always operating within the legal and safety confines of their current environment, reducing risks and ensuring seamless operations. 
 
 
