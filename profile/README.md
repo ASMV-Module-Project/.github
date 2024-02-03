@@ -180,14 +180,13 @@ As drones and robots become increasingly integral to modern operations, understa
 
 In essence, ASMV Module Project doesn't just enable drones and robots to operate; it empowers them with the intelligence to operate optimally, safely, and in harmony with their environment and societal norms. 
 
+# Over-the-Air Regulation and Behavior Updates 
+In our globalized world, drones and robots often operate across different jurisdictions with varying safety standards. ASMV Module Project's over-the-air updates allow these machines to adapt their safety behaviors and comply with local regulations in real-time. This ensures that they are always operating within the legal and safety confines of their current environment, reducing risks and ensuring seamless operations. 
+
+
 # The ASMV project is Maintained by M-RAL
 
 Mermoz Robotics AeroLab (M-RAL) non-profit Association maintains the ASMV Module project : https://github.com/M-RAL
-
-
-
-# Over-the-Air Regulation and Behavior Updates 
-In our globalized world, drones and robots often operate across different jurisdictions with varying safety standards. ASMV Module Project's over-the-air updates allow these machines to adapt their safety behaviors and comply with local regulations in real-time. This ensures that they are always operating within the legal and safety confines of their current environment, reducing risks and ensuring seamless operations. 
 
 
 
