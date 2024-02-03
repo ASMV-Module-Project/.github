@@ -1,6 +1,10 @@
-# The Repositories of the ASMV Module Project:
+# The Repositories for the ASMV Module Project:
 
 https://github.com/orgs/ASMV-Module-Project/repositories
+
+# The Forums and Support for the AMSV Module Project:
+
+https://github.com/orgs/ASMV-Module-Project/discussions
 
 # AMSV Module Project Target: 
 ASMV Module Project supports robotics and drone innovation, building on key controllers SDK like Ardupilot, DJI, Parrot, and ROS. The ASMV Module Project, encompassing IsaacOS, ASMV HAT, and ASMV Casing, represents a pioneering step in the field of drone and robotics technology. Its primary mission: to ensure unparalleled safety by adhering to localized standards and ensure a secure AI access. Beyond safety, ASMV Module Project is a nexus of connectivity and intelligence, acting as an IoT gateway with edge AI capabilities. Its deep integration with cloud-based AI platforms facilitates data flow to ERPs and regulatory bodies. With ASMV Module Project, drones and robots are not just operational tools but integrated, intelligent systems shaping the future of business and society. 
